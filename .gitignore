@@ -1,0 +1,8 @@
+.venv/
+yolo*/
+misc/
+papers_notes/
+yolo*.zip
+yolo*.yaml
+*.pth
+runs/
