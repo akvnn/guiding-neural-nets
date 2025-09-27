@@ -8,7 +8,7 @@ The paper is currently under review.
 
 Through this work, we publish the AU-OPG Dataset. The dataset consists of panoramic radiographs annotated for two tasks: dental diagnosis and dental treatment planning. Each radiogaph includes bounding box annotations for the target teeth, with alignment (orientation) information provided.
 
-You can find the dataset and relevant information here: [pending paper acceptance].
+You can find the dataset and relevant information on [Hugging Face](https://huggingface.co/datasets/YSFF/AU-OPG).
 
 **Sample Radiograph:**
 
