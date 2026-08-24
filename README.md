@@ -2,7 +2,7 @@
 
 This repository contains the implementation, experiments, and dataset details for the paper "Guiding Neural Networks Towards Better Decisions".
 
-The paper is currently under review.
+**Paper link:** [Guiding Neural Networks Toward Better Decisions: A Dental Diagnosis and Treatment Planning Framework and Dataset](https://doi.org/10.1109/ACCESS.2026.3703711)
 
 ## AU-OPG Dataset
 
