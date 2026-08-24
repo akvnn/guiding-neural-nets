@@ -64,4 +64,14 @@ jupyter notebook
 
 If you use the dataset or code in your research, please cite our paper:
 
-[pending paper acceptance]
+```bibtex
+@article{alabd_aljabar2026guiding,
+  author  = {Alabd-Aljabar, Ahmed and Irshaid, Yousef and Elsayed, Karim and Shaman, Maryam and Arif, Omar and Luke, Alexander M.},
+  title   = {Guiding Neural Networks Toward Better Decisions: A Dental Diagnosis and Treatment Planning Framework and Dataset},
+  journal = {IEEE Access},
+  year    = {2026},
+  volume  = {14},
+  pages   = {90109--90121},
+  doi     = {10.1109/ACCESS.2026.3703711}
+}
+```
